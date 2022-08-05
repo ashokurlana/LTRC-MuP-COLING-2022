@@ -18,7 +18,7 @@ pip install requirements.txt
 
 ### Run the script
 
-To run the any sequence to sequence model you can use the `run.sh` script.
+To fine-tune any huggingface model you can use the `run.sh` script. When running the different models described in the paper, ensure you pass the appropriate arguments.
 
 ```sh
 sh run.sh
