@@ -3,6 +3,9 @@
 
 We use a modified fork of [huggingface transformers](https://github.com/huggingface/transformers) for our experiments.
 
+
+* Use the newly created environment for running rest of the commands.
+
 #### Install environment
 
 ```sh
