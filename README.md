@@ -13,7 +13,7 @@ pip install requirements.txt
 
 * We used the dataset released from [MuP2022](https://github.com/allenai/mup) github
 
-* Make sure to create `train, dev, test csv files' with column names `text' and `summary'
+* Make sure to create `train, dev, test' csv files with column names "text" and "summary"
 
 
 ### Run the script
