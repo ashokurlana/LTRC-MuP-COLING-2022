@@ -26,3 +26,9 @@ To fine-tune any huggingface model you can use the `run.sh` script. When running
 ```sh
 sh run.sh
 ```
+
+### Trained Models
+
+You can download the BART-large-cnn fine-tuned on MuP2022 dataset
+
+[MuP BART](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/ashok_urlana_research_iiit_ac_in/EsWS0bW46rpKgBzEN4g2Z14B2Uikd8xrXS7egwM_xCvJhw?e=ivZs94)
