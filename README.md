@@ -11,7 +11,7 @@ pip install requirements.txt
 
 ### Data format:
 
-* We used the dataset released from [MuP2022](https://github.com/allenai/mup) github
+* We used the dataset released in the [MuP2022](https://github.com/allenai/mup) shared task
 
 * Make sure to create `train, dev, test' csv files with column names "text" and "summary"
 
