@@ -3,12 +3,15 @@
 
 We use a modified fork of [huggingface transformers](https://github.com/huggingface/transformers) for our experiments.
 
+### Creating environment
+If you are using conda use the following command: 
 
-* Use the newly created environment for running rest of the commands.
+```
+conda env create -f environment.yml
+```
+Otherwise, for creating python environment use:
 
-#### Install environment
-
-```sh
+```
 pip install requirements.txt
 ```
 
