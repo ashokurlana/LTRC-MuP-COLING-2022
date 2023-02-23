@@ -2,7 +2,7 @@ python run_summarization.py \
     --model_name_or_path facebook/bart-large-cnn \
     --do_train \
     --do_eval \
-    --dO_predict \
+    --do_predict \
     --lang english \
     --train_file train.csv \
     --validation_file dev.csv \
